@@ -5,6 +5,6 @@
     "username": "root",
     "password": "",
     "database": "typeORM",
-    "entities": ["dist/entity/**/*.js"],
+    "entities": ["dist/entity/**/*.js","src/entity/**/*.ts"],
     "synchronize": true
  }
